@@ -1,3 +1,8 @@
-Projeto que permite buscar vereadores/prefeitos eleitos por sua profissão
+Projeto que permite buscar vereadores/prefeitos eleitos por sua profissão.
 
-https://www.youtube.com/watch?v=Y21OR1OPC9A
+Criar ambiente virtual do projeto (comandos para Windows): `python -m venv env`
+
+Ative o ambiente virtual: `env\Scripts\activate`
+
+Instale as dependências: `pip install -r requirements.txt`
+
